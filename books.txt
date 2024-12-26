@@ -1,0 +1,10 @@
+200	madolduwa	wickramasingha	2000	10
+1	hathpana	munidasa	250	0
+3	magulkama	kumarathunga	250	0
+
+300	hansani	lee	1	0
+8	science	ashoka	300	30
+55	whoami	laawaan	200	0
+29	gamperaliya	wickramasingha	500	14
+90	yuganthaya	wickramasingha	300	0
+34	kaliyugaya	wickramasingha	3000	30
