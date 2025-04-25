@@ -1,2 +1,3 @@
 # bookshop-
-C ++ program for book shop 
+C ++ Project for book shop system
+
